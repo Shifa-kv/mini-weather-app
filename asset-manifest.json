@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mini-weather-app/static/css/main.5b4f7923.css",
+    "main.js": "/mini-weather-app/static/js/main.e574b0a0.js",
+    "static/js/787.13d76ca7.chunk.js": "/mini-weather-app/static/js/787.13d76ca7.chunk.js",
+    "static/media/temperature.svg": "/mini-weather-app/static/media/temperature.d3ddd549c20925d7102061adb22dce9d.svg",
+    "static/media/arrow.svg": "/mini-weather-app/static/media/arrow.b3b6e0ff27a41be44589e16643dbdd6b.svg",
+    "index.html": "/mini-weather-app/index.html",
+    "static/media/humidity.svg": "/mini-weather-app/static/media/humidity.9e454052e0b8a23f8a76d94e24143956.svg",
+    "static/media/location.svg": "/mini-weather-app/static/media/location.c67c84d39de6d1d675d7a2166a0ec276.svg",
+    "main.5b4f7923.css.map": "/mini-weather-app/static/css/main.5b4f7923.css.map",
+    "main.e574b0a0.js.map": "/mini-weather-app/static/js/main.e574b0a0.js.map",
+    "787.13d76ca7.chunk.js.map": "/mini-weather-app/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b4f7923.css",
+    "static/js/main.e574b0a0.js"
+  ]
+}
