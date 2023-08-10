@@ -117,7 +117,7 @@ function App() {
           <div className='p-3 card-body fade-in'>
             {data?.weather[0] &&
               <img
-                src={`http://openweathermap.org/img/wn/${data?.weather[0]?.icon}@2x.png`}
+                src={`https://openweathermap.org/img/wn/${data?.weather[0]?.icon}@2x.png`}
                 alt="weathericon"
                 className="weathericon"
               />
