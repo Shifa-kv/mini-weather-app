@@ -46,7 +46,7 @@ function App() {
   };
 
   // Handle input from user
-  const handleInput = async (e) => {
+  const handleInput = (e) => {
     const { value } = e.currentTarget;
     const apiUrl = `${API_BASE_URL}?q=${value}&units=metric&appid=${API_KEY}`;
     const errorMessage = 'City not found. Please enter a valid city name or try again later.'
